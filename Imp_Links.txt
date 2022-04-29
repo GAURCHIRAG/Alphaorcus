@@ -1,0 +1,37 @@
+HP Laptop:
+	Usename:  chigaur
+	Password: Gau122015Hrm
+
+
+PingDirectory:
+	1. Windows:
+		Command to run the server: start-server.bat 
+		Console Link: https://usgurchigaur45/console/login
+		Username: cn=Directory Manager
+		Password: Jmd123456789@ (same for console and command line)
+	2. Ubuntu:
+		Command to run the server: sudo ./start-server
+		Console Link: https://localhost:443/console
+		Username: cn=Directory Manager
+		Password:Gau122015Hr (same for console and command line)
+
+PingFederate:
+	1. Ubuntu:
+		Command to run the server: sudo ./run.sh
+		Console Link: https://localhost:9999/pingfederate/app
+		Username: Administrator
+		Password: Gau122015Hr 
+
+
+PingAccess: 
+	1. Ubuntu:
+		Command to run the server: sudo ./run.sh
+		Console Link: https://localhost:9000/
+		Username: Administrator
+		Password: Gau122015Hr 
+
+Salesforce URL: 
+	Username: chigaur-entu@force.com
+	Password: Gau122015Hr 
+	IDP Initated SSO: https://localhost:9031/idp/startSSO.ping?PartnerSpId=https%3A%2F%2Fatemeinc.my.salesforce.com
+	SP Initiated SSO: atemeinc.my.salesforce.com
